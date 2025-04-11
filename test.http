@@ -1,0 +1,6 @@
+GET https://ipinfo.io
+Accept: application/json
+
+###
+GET https://ipconfig.io
+Accept: application/json

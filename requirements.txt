@@ -1,0 +1,11 @@
+numpy
+ipykernel
+nbformat
+plotly
+anywidget
+tiktoken
+gymnasium
+transformers
+pygame
+Box2D
+MoviePy
